@@ -3,9 +3,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Shruti Pawar</h1>
-<h3 align="center">A passionate Machine Learning developer from India</h3>
+<h3 align="center">A Passionate Machine Learning developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrutipawar8055" alt="shrutipawar8055" /></a> </p>
 
 - 🌱 I’m currently learning **Machine learning and Web Dev**
 
@@ -26,14 +25,22 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutipawar8055&show_icons=true&locale=en&layout=compact" alt="shrutipawar8055" /></p>
 
+<div align="center">
 ### Quote of the Day
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 
+### ART 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutipawar8055&label=Profile%20views&color=0e75b6&style=flat" alt="shrutipawar8055" /> </p>
+<p><img align="center" src="krish.jpeg" /></p>
+<p><img align="center" src="phoenix.jpeg" /></p>
+
+</div>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ShrutiPawar8055&label=Profile%20views&color=0e75b6&style=flat" alt="shrutipawar8055" /> </p>
 
 
-<p><img align="center" src=" " /></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&reversal=false&animation=twinkling&fontAlignY=33&fontColor=FFFFFF&fontSize=45"/>
+</p>
