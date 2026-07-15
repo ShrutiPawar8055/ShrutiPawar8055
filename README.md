@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">Hi 👋 I'm Shruti Pawar</h1>
-<h3 align="center">A Passionate Machine Learning developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
 
-- 🌱 I’m currently learning **Machine learning and Web Dev**
+- 🌱 I’m currently learning **Machine learning and Web Development**
 
 - 👯 I’m looking to collaborate on **AIML**
 
-- 📫 How to reach me **shrutikeshavpawar@gmail.com**
+- 📫 How to reach me **shrutipawar10a@gmail.com**
 
 - ⚡ Fun fact **Connect with me for this :)**
 
