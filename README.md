@@ -33,10 +33,10 @@
 
 
 <h3 align="left">My Art</h3>
-
-<p><img align="center" src="krish.jpeg" height="400"/></p>
-<p><img align="center" src="phoenix.jpeg" height="200" /></p>
-
+<p align="center">
+  <img src="krish.jpeg" height="400" alt="Krishna" />
+  <img src="phoenix.jpeg" height="400" alt="Phoenix" />
+</p>
 </div>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ShrutiPawar8055&label=Profile%20views&color=0e75b6&style=flat" alt="shrutipawar8055" /> </p>
