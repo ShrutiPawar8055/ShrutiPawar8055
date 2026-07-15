@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%20to%20My%20digital%20workspace!&textBg=false&section=header&reversal=false&animation=twinkling&fontAlignY=33&fontColor=FFFFFF&fontSize=45"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Shruti Pawar</h1>
+<h1 align="center">Hi 👋 I'm Shruti Pawar</h1>
 <h3 align="center">A Passionate Machine Learning developer from India</h3>
 
 
@@ -13,6 +13,9 @@
 - 📫 How to reach me **shrutikeshavpawar@gmail.com**
 
 - ⚡ Fun fact **Connect with me for this :)**
+
+- ⚡ Things I like: **Coding, Reading, and Exploring new technologies**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,19 +32,20 @@
 <h3 align="left">Quote of the Day</h3>
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-
 <h3 align="left">My Art</h3>
 <p align="center">
   <img src="krish.jpeg" height="400" alt="Krishna" />
   <img src="phoenix.jpeg" height="400" alt="Phoenix" />
 </p>
+
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
 </div>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ShrutiPawar8055&label=Profile%20views&color=0e75b6&style=flat" alt="shrutipawar8055" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ShrutiPawar8055&label=Profile%20views&color=0e75b6&style=flat" alt="Github Views" /> </p>
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&reversal=false&animation=twinkling&fontAlignY=33&fontColor=FFFFFF&fontSize=45"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Lets%20Connect!!&textBg=false&section=footer&reversal=false&animation=twinkling&fontAlignY=33&fontColor=FFFFFF&fontSize=45"/>
 </p>
