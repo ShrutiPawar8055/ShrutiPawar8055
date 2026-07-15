@@ -62,6 +62,7 @@
 
 </div>
 
+<h3 align="left">GitHub Stats</h3>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ShrutiPawar8055&theme=tokyonight&hide_border=true"/>
 </p>
