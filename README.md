@@ -18,16 +18,22 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://linkedin.com/in/shruti pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shruti pawar" height="30" width="40" /></a> -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/shrutipawar8055">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutipawar8055/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutipawar10a@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShrutiPawar8055)
-[![Codeforces](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/c_o_d_e_r_)
+  <a href="mailto:shrutipawar10a@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/ShrutiPawar8055">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 <!-- <a href="https://www.codechef.com/users/not_wanna_disclose_now" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="not_wanna_disclose_now" height="30" width="40" /></a> -->
-<!-- <a href="https://codeforces.com/profile/c_o_d_e_r_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="c_o_d_e_r_" height="30" width="40" /></a> -->
+<a href="https://codeforces.com/profile/c_o_d_e_r_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="c_o_d_e_r_" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/not_wanna_disclose_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="not_wanna_disclose_now"" height="30" width="40" /></a> -->
 </p>
 
@@ -49,6 +55,14 @@
 
 </div>
 
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShrutiPawar8055&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiPawar8055&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ShrutiPawar8055&theme=tokyonight&hide_border=true"/>
+</p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ShrutiPawar8055&label=Profile%20views&color=0e75b6&style=flat" alt="Github Views" /> </p>
 
 
