@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%20to%20My%20digital%20workspace!&textBg=false&section=header&reversal=false&animation=twinkling&fontAlignY=33&fontColor=FFFFFF&fontSize=45"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Shruti Pawar</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 
