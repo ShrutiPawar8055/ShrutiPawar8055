@@ -28,12 +28,12 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutipawar8055&show_icons=true&locale=en&layout=compact" alt="shrutipawar8055" /></p>
 
-### Qoute of the Day
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+### Quote of the Day
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutipawar8055&label=Profile%20views&color=0e75b6&style=flat" alt="shrutipawar8055" /> </p>
 
 
 <p><img align="center" src=" " /></p>
-# ReadMe
