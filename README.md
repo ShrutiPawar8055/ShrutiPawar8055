@@ -32,10 +32,10 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 
-### ART 
+<h3 align="left">My Art</h3>
 
-<p><img align="center" src="krish.jpeg" height="200" width="400"/></p>
-<p><img align="center" src="phoenix.jpeg" height="200" width="400"/></p>
+<p><img align="center" src="krish.jpeg" height="400"/></p>
+<p><img align="center" src="phoenix.jpeg" height="200" /></p>
 
 </div>
 
